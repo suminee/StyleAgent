@@ -5,27 +5,26 @@
 
 ## 분석 기반 데이터
 - 분석 문서 수: 1개
-- 총 문자 수: 5,587,041자
+- 총 문자 수: 435,772자
 
 ## 핵심 스타일 가이드라인
 
 ### 문장 길이: 적당한 길이
-- 평균 문장 길이: 약 139자
+- 평균 문장 길이: 약 106자
 - 너무 짧지도, 너무 길지도 않은 적당한 문장을 선호합니다
 
 ### 톤 & 격식
 - **Formal/Professional tone**
 - Use polite, professional language
 - 열정적이고 긍정적인 톤 선호
-- 직접적이고 명확한 표현 사용
 
 ### 시작 패턴
 자주 사용하는 시작 표현:
 - "Best regards,"
-- "Here’s a"
-- "Let me"
-- "Let me know"
+- "Thank you"
+- "Thank you for"
 - "Best regards, Sumin"
+- "I would"
 - 주요 인사말: "Thank you"
 
 ### 마무리 패턴
@@ -35,120 +34,210 @@
 - "Thanks"
 
 ### 구조적 특징
-- **불릿 포인트 사용**: 자주 사용 (8,962회)
-- **번호 목록 사용**: 사용 (3,454회)
-- **헤더/제목 사용**: 사용 (2,220회)
+- **불릿 포인트 사용**: 자주 사용 (184회)
+- **번호 목록 사용**: 사용 (188회)
+- **헤더/제목 사용**: 사용 (0회)
 - **굵은 글씨 강조**: 중요 내용에 **bold** 사용
 - **표 사용**: 데이터 정리에 표 활용
 
 ### 연결어/전환어
-Frequently used transitions: "but", "also", "so", "next", "including", "such as", "however"
+Frequently used transitions: "but", "so", "also", "next", "as well", "however", "including"
 
 ### 시그니처 표현
 이 사용자가 자주 쓰는 특징적인 표현:
-- "me know"
-- "Here s"
-- "s a"
-- "if you"
-- "d like"
-- "know if"
-- "you d"
+- "Thank you"
+- "Best regards"
+- "regards Sumin"
+- "Sumin Hi"
+- "in the"
+- "to the"
+- "you for"
 
 ## 스타일 참고 예시
 실제 작성된 글의 예시입니다. 이러한 톤과 스타일을 참고하세요:
 
 ### 예시 1
 ```
-Here’s how to download the **Notion app** on the device you’re using:
+Hi Wendi,
 
-### 💻 Desktop (Windows & Mac)
-Go to the official Notion download page and choose the right version for your system:  
-👉 **Official download page:** https://www.notion.com/desktop citeturn0search1
 
-- **macOS:** download Universal, Apple Silicon, or Intel builds  
-- **Windows:** download x64 or Arm/Arm64 version  
-Follow the installer steps after downloading. citeturn0search1
 
-Alternatively, on **Windows 10/11** you can i...
+1. Yes, Tomocube will cover the travel expense 
+
+
+
+2. We would like to arrange meetings with the relevant teams (sales, product management, etc) as well as the CEO and COO, to finish the final interview. We would also like to ask you a short presentation as well. 
+
+
+
+If it is too much for them due to their current affilication, I am also thinking about having an on-site interview in their town. Please feel free to let me know their availability. 
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 2
 ```
-### 📱 Mobile (iOS & Android)
-- **Android:** Open **Google Play Store** and search for *Notion* → install. citeturn0search2  
-- **iPhone/iPad:** Open **Apple App Store** and search for *Notion: Notes, Tasks, AI* → install. citeturn0search8
+Dear Bruce,
 
-You can also visit Notion’s mobile download page on your phone and it will redirect you to the correct store. citeturn0search13
+
+
+Thank you for the message and apolozige for our delayed response. Happy new year to you and your family as well 
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 3
 ```
-### 🌐 Browser Option
-If you don’t want to install anything, you can always use Notion in your browser by visiting:  
-👉 https://www.notion.com/ citeturn0search10
+Congratulations @Brian Templin for your great year! and also thanks for everyone for the achivemeent this year. 
+
+
+
+It would be great to meet you all in person and discuss about the plans 
+
+
+
+January 16, after FLAIR event, it would be great to meet you in person and discuss about the plans in 2026. If the schedule doesn't work, please let us know.
+
+
+
+(@Brian Templin I will hand-carrying your award and give you in person)
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 4
 ```
-If you want **direct download links** for a specific platform (Windows installer, macOS, Android APK, etc.), tell me which device you’re on and I’ll give them.
+(@Brian Templin I will hand-carry your award and present it to you in person.)
+
+
+
+Happy holiday & new year!  
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 5
 ```
-Of course—please paste the email draft you’d like revised, and let me know if you have a preferred tone (e.g., more formal, more friendly, or strictly concise).
+Dear Wendi,
+
+
+
+Agreed. Please process with the reference checks on their past work first. 
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 6
 ```
-Here’s a revised version that tightens the language, improves flow, and keeps a professional but friendly tone. I’ve also clarified a few ambiguities while preserving your intent.
+Dear Wendi,
 
-:::writing{id="83427" variant="email" subject="Interview Logistics and Next Steps"}
-Hi Wendi,
 
-1. Yes, Tomocube will cover the travel expenses.
 
-2. We would like to arrange meetings with the relevant teams (e.g., sales, product management), as well as with the CEO and COO, to complete the final interview. We would als...
+I missed a point. Please process with the reference check for two candidates - He Tong and Li Yan. Also, please let us know their preference in visiting Tomocube HQ office next January. 
+
+One day for each candidate
+
+Jan 14 (Wednesday) or Week of 16th January.
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 7
 ```
-Here’s a polished and concise revision with corrected spelling and smoother flow:
+Dear Endo san, 
 
-:::writing{id="83428" variant="email" subject="Happy New Year"}
-Dear Bruce,
 
-Thank you for your message, and apologies for our delayed response. Happy New Year to you and your family as well.
 
-Best regards,  
-Sumin
-:::
+Thank you so much for sharing the photo and I really appreciate your support this year. (and apologize for my delayed response due to the many things)
 
-If you’d prefer a slightly warmer or more formal tone, I can adjust it easily.
+
+
+I've had a great conversation with Tokai HIT team in last ASCB, we are confident to growth the sales next year. About the mini, still many things are uncertain, but I am also confident we can get more visible plan afte a few months of field demonstration.
+
+
+
+Wish you a happy year-end season and hope to see you again somewhere...
 ```
 
 ### 예시 8
 ```
-Of course—please paste the email draft you’d like revised, and let me know if you have a preferred tone (e.g., more formal, more direct, or friendly-professional).
+Hi Wendi,
+
+
+
+I've got a brief report from Huayi and asked for more detailed note for each candidate. Please wait for a few more days and I will let you know the candidates for the next round.
+
+
+
+The tentative date is Jan 14 (Wed) or later, and I am also having in mind visiting China for the in-person meeting if necessary. 
+
+
+
+I will get back to you soon with the final candidates. 
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ### 예시 9
 ```
-Here’s a clear, concise revision that keeps a warm, professional tone. I’ve smoothed out repetition, corrected grammar, and made the logistics more straightforward.
+Hi Wendi,
 
-:::writing{id="83412" variant="email" subject="Congratulations and January 16 Meeting"}
-Congratulations, @Brian Templin, on a fantastic year—and thank you to everyone for the great achievements this year.
 
-It would be wonderful to meet in person and discuss plans for 2026. If possible, I suggest meeting on January 16 after the FLAIR...
+
+I’ve received a brief report from Huayi and have requested more detailed notes for each candidate. Please allow a few more days while I review this information, and I will follow up with the candidates selected for the next round.
+
+
+
+The tentative date for the next round is January 14 (Wednesday) or later, in our HQ office. I am also considering traveling to China for an in-person meeting in early January if needed.
+
+
+
+In the meantime, could you let us know if each candidate is happ...
 ```
 
 ### 예시 10
 ```
-Here’s a polished, concise version with a smooth, professional tone and a friendly closing. I made only light refinements to flow, punctuation, and consistency.
+Hi Cathy,
 
-:::writing{id="94827" variant="email" subject="Congratulations and January 16 Meeting"}
-Congratulations, @Brian Templin, on a fantastic year—and thank you to everyone for the great achievements this year.
 
-It would be wonderful to meet in person and discuss plans for 2026. If possible, I suggest meeting on January 16 after the FLAIR eve...
+
+We are delight to hear that you accepted our offer for an internship next year. 
+
+
+
+I would like to introduce Junhyung Park, the team lead becoming your manager during your internship period. He will help your onboarding, and suggest a few time slots for a brief call shortly. If you need any questions. 
+
+
+
+Best regards,
+
+Sumin
 ```
 
 ---

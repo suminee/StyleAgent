@@ -1,525 +1,524 @@
 {
   "metadata": {
     "total_documents": 1,
-    "total_characters": 5587041
+    "total_characters": 435772
   },
   "sentence_stats": {
-    "avg_length_chars": 138.56920484836292,
-    "std_dev_length": 214.08882014302216,
-    "avg_word_count": 20.966202283357642,
+    "avg_length_chars": 105.54670939117574,
+    "std_dev_length": 65.2859571332883,
+    "avg_word_count": 18.108454523046586,
     "min_length": 11,
-    "max_length": 8062,
-    "total_sentences": 39766,
+    "max_length": 941,
+    "total_sentences": 4057,
     "length_distribution": {
-      "short_pct": 12.895438314137705,
-      "medium_pct": 61.147714127646736,
-      "long_pct": 25.95684755821556
+      "short_pct": 14.468819324624107,
+      "medium_pct": 68.25240325363569,
+      "long_pct": 17.2787774217402
     }
   },
   "paragraph_stats": {
-    "avg_length_chars": 148.3445432497979,
-    "avg_sentences_per_para": 1.50846133117758,
-    "total_paragraphs": 37110,
-    "single_sentence_para_pct": 62.95877122069523
+    "avg_length_chars": 110.70005189413597,
+    "avg_sentences_per_para": 1.3199273482096523,
+    "total_paragraphs": 3854,
+    "single_sentence_para_pct": 45.27763362740011
   },
   "vocabulary": {
-    "total_meaningful_words": 509640,
-    "unique_words": 20963,
-    "vocabulary_richness": 0.04113295659681344,
+    "total_meaningful_words": 41531,
+    "unique_words": 4964,
+    "vocabulary_richness": 0.11952517396643471,
     "top_korean_words": [],
     "top_english_words": [
       [
-        "like",
-        4388
-      ],
-      [
-        "version",
-        4347
-      ],
-      [
-        "let",
-        3657
-      ],
-      [
-        "know",
-        3588
-      ],
-      [
-        "email",
-        3455
+        "sumin",
+        575
       ],
       [
         "please",
-        3348
+        476
       ],
       [
-        "clarity",
-        2906
-      ],
-      [
-        "tone",
-        2726
+        "hi",
+        435
       ],
       [
         "best",
-        2509
-      ],
-      [
-        "subject",
-        2391
-      ],
-      [
-        "sumin",
-        2281
+        371
       ],
       [
         "tomocube",
-        2202
+        340
       ],
       [
-        "imaging",
-        2100
+        "thank",
+        321
       ],
       [
         "regards",
-        2031
+        307
       ],
       [
-        "research",
-        1942
+        "like",
+        303
       ],
       [
-        "professional",
-        1882
+        "know",
+        289
+      ],
+      [
+        "am",
+        269
+      ],
+      [
+        "let",
+        267
+      ],
+      [
+        "so",
+        256
       ],
       [
         "ht",
-        1847
+        256
       ],
       [
-        "while",
-        1767
+        "dear",
+        246
+      ],
+      [
+        "out",
+        234
+      ],
+      [
+        "also",
+        231
+      ],
+      [
+        "us",
+        230
+      ],
+      [
+        "team",
+        227
       ],
       [
         "time",
-        1703
+        197
       ],
       [
-        "up",
-        1644
+        "ve",
+        191
       ]
     ]
   },
   "opening_patterns": {
     "common_first_words": [
       [
+        "I",
+        332
+      ],
+      [
         "Best",
-        1951
-      ],
-      [
-        "Here’s",
-        1879
-      ],
-      [
-        "**Subject:**",
-        1724
-      ],
-      [
-        "Let",
-        1686
-      ],
-      [
-        "-",
-        1648
-      ],
-      [
-        "###",
-        1431
-      ],
-      [
-        "This",
-        1357
+        296
       ],
       [
         "Thank",
-        1260
-      ],
-      [
-        "I",
-        1228
-      ],
-      [
-        "Please",
-        940
-      ],
-      [
-        "If",
-        742
+        239
       ],
       [
         "Dear",
-        687
+        150
       ],
       [
-        "Here's",
-        678
+        "Please",
+        125
       ],
       [
-        "Your",
-        602
+        "We",
+        97
+      ],
+      [
+        "If",
+        94
+      ],
+      [
+        "Hi",
+        90
       ],
       [
         "The",
-        523
+        63
+      ],
+      [
+        "Thanks,",
+        63
+      ],
+      [
+        "-",
+        54
+      ],
+      [
+        "Regarding",
+        52
+      ],
+      [
+        "Thanks",
+        50
+      ],
+      [
+        "It",
+        45
+      ],
+      [
+        "My",
+        33
       ]
     ],
     "common_first_phrases": [
       [
         "Best regards,",
-        1942
-      ],
-      [
-        "Here’s a",
-        1773
-      ],
-      [
-        "Let me",
-        1685
-      ],
-      [
-        "Let me know",
-        1675
-      ],
-      [
-        "Best regards, Sumin",
-        1350
+        294
       ],
       [
         "Thank you",
-        1154
+        230
       ],
       [
         "Thank you for",
-        1002
+        206
       ],
       [
-        "This version",
-        844
+        "Best regards, Sumin",
+        87
       ],
       [
-        "Here's a",
-        611
+        "I would",
+        60
       ],
       [
-        "Here’s a refined",
-        605
-      ],
-      [
-        "Best regards, [Your",
-        382
+        "Thanks, Sumin",
+        59
       ],
       [
         "If you",
-        380
+        54
       ],
       [
-        "Would you",
-        350
+        "Regarding the",
+        41
       ],
       [
-        "Here’s a polished",
-        339
+        "I would like",
+        40
       ],
       [
         "I hope",
-        324
+        40
+      ],
+      [
+        "I am",
+        39
+      ],
+      [
+        "Thanks for",
+        38
+      ],
+      [
+        "I will",
+        35
+      ],
+      [
+        "Please let",
+        35
+      ],
+      [
+        "Please let me",
+        33
       ]
     ],
     "greeting_patterns": {
-      "Hello": 20,
-      "Hi": 330,
-      "Dear": 720,
-      "Good morning/afternoon": 12,
-      "Thank you": 1402
+      "Hello": 5,
+      "Hi": 90,
+      "Dear": 152,
+      "Good morning/afternoon": 3,
+      "Thank you": 255
     },
     "sample_openings": [
-      "Here’s how to download the **Notion app** on the device you’re using:",
-      "### 💻 Desktop (Windows & Mac)\nGo to the official Notion download page and choose the right version f",
-      "- **macOS:** download Universal, Apple Silicon, or Intel builds \n- **Windows:** download x64 or Arm/",
-      "Alternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
-      "### 📱 Mobile (iOS & Android)\n- **Android:** Open **Google Play Store** and search for *Notion* → ins",
-      "You can also visit Notion’s mobile download page on your phone and it will redirect you to the corre",
-      "### 🌐 Browser Option\nIf you don’t want to install anything, you can always use Notion in your browse",
-      "If you want **direct download links** for a specific platform (Windows installer, macOS, Android APK",
-      "Of course—please paste the email draft you’d like revised, and let me know if you have a preferred t",
-      "Here’s a revised version that tightens the language, improves flow, and keeps a professional but fri"
+      "Yes, Tomocube will cover the travel expense",
+      "We would like to arrange meetings with the relevant teams (sales, product management, etc) as well a",
+      "If it is too much for them due to their current affilication, I am also thinking about having an on-",
+      "Best regards,",
+      "Dear Bruce,",
+      "Thank you for the message and apolozige for our delayed response.",
+      "Best regards,",
+      "Congratulations @Brian Templin for your great year!",
+      "It would be great to meet you all in person and discuss about the plans",
+      "January 16, after FLAIR event, it would be great to meet you in person and discuss about the plans i"
     ]
   },
   "closing_patterns": {
     "common_last_words": [
       [
-        "Sumin",
-        1857
-      ],
-      [
-        "cite",
-        915
-      ],
-      [
-        "Name]",
-        618
-      ],
-      [
-        "tone:",
-        583
-      ],
-      [
-        "cite",
-        473
-      ],
-      [
-        "adjustments!",
-        427
-      ],
-      [
-        "flow:",
-        424
-      ],
-      [
-        "professionalism:",
-        337
-      ],
-      [
-        "tweaks!",
-        247
-      ],
-      [
-        "clarity:",
-        238
-      ],
-      [
-        "version:",
-        231
-      ],
-      [
-        "tone.",
-        230
-      ],
-      [
         "regards,",
-        221
+        208
       ],
       [
-        "Name],",
-        211
+        "Sumin",
+        173
       ],
       [
-        "email:",
-        198
+        "you.",
+        39
+      ],
+      [
+        "soon.",
+        35
+      ],
+      [
+        "well.",
+        31
+      ],
+      [
+        "questions.",
+        30
+      ],
+      [
+        "know.",
+        27
+      ],
+      [
+        "year.",
+        26
+      ],
+      [
+        "meeting.",
+        21
+      ],
+      [
+        "thoughts.",
+        19
+      ],
+      [
+        "time.",
+        18
+      ],
+      [
+        "accordingly.",
+        17
+      ],
+      [
+        "cooperation.",
+        16
+      ],
+      [
+        "below.",
+        15
+      ],
+      [
+        "week.",
+        15
       ]
     ],
     "common_last_phrases": [
       [
+        "Best regards,",
+        207
+      ],
+      [
         "regards, Sumin",
-        1334
+        91
       ],
       [
         "Best regards, Sumin",
-        1308
-      ],
-      [
-        "[Your Name]",
-        614
-      ],
-      [
-        "regards, [Your Name]",
-        369
-      ],
-      [
-        "and flow:",
-        345
-      ],
-      [
-        "and professionalism:",
-        330
+        87
       ],
       [
         "Thanks, Sumin",
-        316
+        59
       ],
       [
-        "further adjustments!",
-        312
+        "me know.",
+        22
       ],
       [
-        "clarity and professionalism:",
-        288
+        "let me know.",
+        22
       ],
       [
-        "clarity and flow:",
-        253
+        "as well.",
+        20
       ],
       [
-        "and tone:",
-        247
+        "your thoughts.",
+        18
       ],
       [
-        "Best regards,",
-        193
+        "your cooperation.",
+        16
       ],
       [
-        "any further adjustments!",
-        190
+        "for your cooperation.",
+        16
       ],
       [
-        "[Recipient's Name],",
-        179
+        "you soon.",
+        16
       ],
       [
-        "your message:",
-        177
+        "any questions.",
+        15
+      ],
+      [
+        "have any questions.",
+        14
+      ],
+      [
+        "Best, Sumin",
+        13
+      ],
+      [
+        "know your thoughts.",
+        12
       ]
     ],
     "signoff_patterns": {
-      "Best regards": 1955,
-      "Best": 220,
-      "Thanks": 477,
-      "Thank you": 588,
-      "Sincerely": 11,
-      "말씀해 주세요": 1
+      "Best regards": 299,
+      "Best": 19,
+      "Thanks": 85,
+      "Thank you": 100,
+      "Sincerely": 1
     },
     "sample_closings": [
-      "Here’s how to download the **Notion app** on the device you’re using:",
-      "right version for your system: \n👉 **Official download page:** https://www.notion.com/desktop cite",
-      "lds \n- **Windows:** download x64 or Arm/Arm64 version \nFollow the installer steps after downloading.",
-      "Alternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
-      " \n- **iPhone/iPad:** Open **Apple App Store** and search for *Notion: Notes, Tasks, AI* → install.",
-      "lso visit Notion’s mobile download page on your phone and it will redirect you to the correct store.",
-      " anything, you can always use Notion in your browser by visiting: \n👉 https://www.notion.com/ cite",
-      "rm (Windows installer, macOS, Android APK, etc.), tell me which device you’re on and I’ll give them.",
-      "nd let me know if you have a preferred tone (e.g., more formal, more friendly, or strictly concise).",
-      "I’ve also clarified a few ambiguities while preserving your intent."
+      "Yes, Tomocube will cover the travel expense",
+      "We would also like to ask you a short presentation as well.",
+      "Please feel free to let me know their availability.",
+      "Best regards,",
+      "Dear Bruce,",
+      "Happy new year to you and your family as well",
+      "Best regards,",
+      "and also thanks for everyone for the achivemeent this year.",
+      "It would be great to meet you all in person and discuss about the plans",
+      "If the schedule doesn't work, please let us know."
     ]
   },
   "transition_analysis": {
     "korean_by_category": {
-      "additive": 2,
-      "contrast": 1,
-      "causal": 2,
-      "sequential": 4,
-      "exemplifying": 4,
-      "concluding": 2
+      "additive": 0,
+      "contrast": 0,
+      "causal": 0,
+      "sequential": 0,
+      "exemplifying": 0,
+      "concluding": 0
     },
     "english_by_category": {
-      "additive": 2051,
-      "contrast": 2408,
-      "causal": 1023,
-      "sequential": 1696,
-      "exemplifying": 1920,
-      "concluding": 203
+      "additive": 333,
+      "contrast": 399,
+      "causal": 279,
+      "sequential": 249,
+      "exemplifying": 123,
+      "concluding": 9
     },
     "top_korean_transitions": [
       [
-        "하지만",
-        8
-      ],
-      [
-        "다음으로",
-        3
-      ],
-      [
-        "특히",
-        3
-      ],
-      [
-        "정리하면",
-        2
-      ],
-      [
         "또한",
-        1
+        0
       ],
       [
         "그리고",
-        1
+        0
       ],
       [
-        "다만",
-        1
+        "더불어",
+        0
       ],
       [
-        "따라서",
-        1
+        "아울러",
+        0
       ],
       [
-        "때문에",
-        1
+        "게다가",
+        0
       ],
       [
-        "먼저",
-        1
+        "뿐만 아니라",
+        0
+      ],
+      [
+        "마찬가지로",
+        0
+      ],
+      [
+        "하지만",
+        0
+      ],
+      [
+        "그러나",
+        0
+      ],
+      [
+        "반면",
+        0
       ]
     ],
     "top_english_transitions": [
       [
         "but",
-        1428
-      ],
-      [
-        "also",
-        1398
+        299
       ],
       [
         "so",
-        912
+        256
+      ],
+      [
+        "also",
+        231
       ],
       [
         "next",
-        910
+        147
       ],
       [
-        "including",
-        898
-      ],
-      [
-        "such as",
-        639
+        "as well",
+        82
       ],
       [
         "however",
-        531
+        71
       ],
       [
-        "yet",
-        438
+        "including",
+        69
+      ],
+      [
+        "such as",
+        42
       ],
       [
         "first",
-        392
+        39
       ],
       [
-        "additionally",
-        345
+        "then",
+        34
       ]
     ]
   },
   "tone_analysis": {
     "korean_formality": {
-      "formal_high": 140,
-      "formal_polite": 17,
-      "informal": 96
+      "formal_high": 0,
+      "formal_polite": 0,
+      "informal": 1
     },
     "english_formality": {
-      "formal": 5532,
-      "polite": 3122,
-      "casual": 832
+      "formal": 793,
+      "polite": 488,
+      "casual": 191
     },
-    "primary_korean_tone": "formal",
+    "primary_korean_tone": "casual",
     "primary_english_tone": "formal",
     "emotional_indicators": {
-      "enthusiastic": 4185,
-      "cautious": 653,
-      "direct": 1249
+      "enthusiastic": 282,
+      "cautious": 36,
+      "direct": 217
     }
   },
   "structural_patterns": {
@@ -528,137 +527,137 @@
       "uses_numbering": true,
       "uses_headers": true,
       "uses_bold": true,
-      "uses_code_blocks": true,
+      "uses_code_blocks": false,
       "uses_tables": true
     },
     "counts": {
-      "bullet_count": 8962,
-      "number_count": 3454,
-      "header_count": 2220,
-      "question_count": 2549
+      "bullet_count": 184,
+      "number_count": 188,
+      "header_count": 0,
+      "question_count": 319
     }
   },
   "signature_phrases": {
     "signature_bigrams": [
       [
-        "me know",
-        3246
-      ],
-      [
-        "Here s",
-        3227
-      ],
-      [
-        "s a",
-        3199
-      ],
-      [
-        "if you",
-        3128
-      ],
-      [
-        "d like",
-        2817
-      ],
-      [
-        "know if",
-        2787
-      ],
-      [
-        "you d",
-        2607
-      ],
-      [
-        "Let me",
-        2570
-      ],
-      [
-        "of your",
-        2381
-      ],
-      [
-        "of the",
-        2307
-      ],
-      [
-        "version of",
-        2163
+        "Thank you",
+        301
       ],
       [
         "Best regards",
-        1956
+        299
+      ],
+      [
+        "regards Sumin",
+        295
+      ],
+      [
+        "Sumin Hi",
+        279
       ],
       [
         "in the",
-        1934
+        279
+      ],
+      [
+        "to the",
+        249
+      ],
+      [
+        "you for",
+        239
       ],
       [
         "for the",
-        1628
+        239
       ],
       [
-        "clarity and",
-        1578
+        "would be",
+        230
+      ],
+      [
+        "I am",
+        216
+      ],
+      [
+        "of the",
+        209
+      ],
+      [
+        "if you",
+        205
+      ],
+      [
+        "I would",
+        197
+      ],
+      [
+        "like to",
+        189
+      ],
+      [
+        "I will",
+        173
       ]
     ],
     "signature_trigrams": [
       [
-        "Here s a",
-        2953
-      ],
-      [
-        "me know if",
-        2725
-      ],
-      [
-        "Let me know",
-        2558
-      ],
-      [
-        "you d like",
-        2551
-      ],
-      [
-        "know if you",
-        2400
-      ],
-      [
-        "version of your",
-        2011
-      ],
-      [
-        "if you d",
-        1807
-      ],
-      [
         "Best regards Sumin",
-        1423
+        291
       ],
       [
-        "d like to",
-        1205
+        "Thank you for",
+        227
       ],
       [
-        "of your email",
-        1151
+        "would like to",
+        163
+      ],
+      [
+        "let me know",
+        163
+      ],
+      [
+        "regards Sumin Hi",
+        147
+      ],
+      [
+        "I would like",
+        120
+      ],
+      [
+        "regards Sumin Dear",
+        115
+      ],
+      [
+        "you have any",
+        107
+      ],
+      [
+        "you for your",
+        93
+      ],
+      [
+        "if you have",
+        81
       ]
     ]
   },
   "sample_sentences": [
-    "cite\n\nAlternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
-    "In the meantime, you can view sample images using the link below: \n**[Download link: Motion PPT]** \nFeel free to share this with your colleagues.",
-    "- **Evolution:** From *IOBC* → *SIC* to formalize a tripartite collaboration (ITB–Evident–WPM).",
-    "We’re planning to launch promotional activities in China for our new product, **HT-X1 mini**, which we believe will appeal to a broader audience than our previous models.",
-    "Detailed technical specifications for each product, focusing on:\\n - Imaging resolution\\n - Throughput and acquisition speed\\n - Applications (e.g., research and clinical relevance)\\n3.",
-    "Best regards, \n[Your Name] \n\nLet me know if you'd like to adjust the tone (more formal or casual) or add any specific call to action.",
-    "### Next Steps Agreed Upon:\n\n- **Sumin Lee** committed to providing feedback or further information within **a few days to a week**, citing potential delays due to the busy travel schedule of her superior.",
-    "Applicants must be full-time faculty members in science and engineering fields at domestic universities or regular researchers at national or government-funded research institutes who meet one of the following criteria: \n\n- Obtained a doctoral degree within the past seven years.",
-    "Your experience and interest in growing the market as an applications/business developer sound like a great fit for our goals, so I’ll forward your details to the relevant team.",
-    "**Quality of Relationship Over Quantity**: Creators don’t need millions of fans like big stars.",
-    "Thanks, \nSumin\n\nThis version makes minor tweaks for flow and clarity while keeping the professional tone intact.",
-    "We are circulating an HT-X1 demo unit in Australia starting this March, and I hope we can discuss the possibility of you experiencing our HT-X1 system for your studies.",
-    "This graph provides a comparative view of cell growth dynamics across multiple wells, demonstrating variations in confluency progression.",
-    "I'm reaching out with a query regarding the polymer bottom thickness in our HT-Ready 96 well plate.",
-    "Here are some examples of group cheers, incorporating various methods to create an enthusiastic and unified atmosphere:\n\n1."
+    "Yes, Tomocube will cover the travel expense \n\n2.",
+    "Hi Bruno and Hyang, \n\nThe invoice seems like the recent demo service at U Surrey.",
+    "After you back to office, can we setup a call for introducing further about our HT-X1 Plus holotomography imaging systems and its applications of 3D tissue section imaging including the virtual staining?",
+    "Which way would be the best \n\n3.",
+    "Thanks,\n\nSumin\n\nHi Lino,\n\nThank you for sharing the information.",
+    "Hi Reza,\n\nAs I mentioned on the meeting today, Nohwi checked out your laptop on Amazon with a fast delivery.",
+    "Best regards,\n\nSumin\n\nHi Craig,\n\nIf you are available on December 24 at 9 am Korean Time (Dec 23 at 4 am LA?), I would like to ask you a call.",
+    "If you have changed an opportunity from HT-X1 to HT-X1 Plus, please also update the Lead product field to reflect this change.",
+    "Thank you,\n\nSumin\n\nThank you so much!",
+    "There is definitely a limit of growth maintaining the current operation without proper investment such as human resources or sponsorships.",
+    "Thanks,\nSumin\n\nHi Justine, \n \nThank you so much for your help.",
+    "One of the HQ people attending the CBIAS symposium will be joining SPAOM exhibition.",
+    "For now it has been applied to the “new” format on the main page of opportunity, but haven’t applied in the edit page layout.",
+    "-\tWhile plant science is not our main application due to many challenges, I wanted to remind you that we do have a HT-X1 customer in Korea who studies Arabidopsis.",
+    "I am reaching out to inform you that we have recently produced a video clip featuring Snowflake yeast, showcasing data that is similar to what you posted on Twitter."
   ]
 }
