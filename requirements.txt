@@ -1,0 +1,14 @@
+# Document parsing
+python-docx>=0.8.11
+
+# LLM integration
+anthropic>=0.40.0
+openai>=1.0.0
+
+# Text analysis
+konlpy>=0.6.0  # Korean NLP (optional)
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.0.0  # Beautiful CLI output
+click>=8.0.0  # CLI framework

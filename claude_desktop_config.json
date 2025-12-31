@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "styleagent": {
+      "command": "python",
+      "args": ["d:/Homework/StyleAgent/mcp_server.py"],
+      "env": {}
+    }
+  }
+}

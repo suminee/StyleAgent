@@ -1,0 +1,664 @@
+{
+  "metadata": {
+    "total_documents": 1,
+    "total_characters": 5587041
+  },
+  "sentence_stats": {
+    "avg_length_chars": 138.56920484836292,
+    "std_dev_length": 214.08882014302216,
+    "avg_word_count": 20.966202283357642,
+    "min_length": 11,
+    "max_length": 8062,
+    "total_sentences": 39766,
+    "length_distribution": {
+      "short_pct": 12.895438314137705,
+      "medium_pct": 61.147714127646736,
+      "long_pct": 25.95684755821556
+    }
+  },
+  "paragraph_stats": {
+    "avg_length_chars": 148.3445432497979,
+    "avg_sentences_per_para": 1.50846133117758,
+    "total_paragraphs": 37110,
+    "single_sentence_para_pct": 62.95877122069523
+  },
+  "vocabulary": {
+    "total_meaningful_words": 509640,
+    "unique_words": 20963,
+    "vocabulary_richness": 0.04113295659681344,
+    "top_korean_words": [],
+    "top_english_words": [
+      [
+        "like",
+        4388
+      ],
+      [
+        "version",
+        4347
+      ],
+      [
+        "let",
+        3657
+      ],
+      [
+        "know",
+        3588
+      ],
+      [
+        "email",
+        3455
+      ],
+      [
+        "please",
+        3348
+      ],
+      [
+        "clarity",
+        2906
+      ],
+      [
+        "tone",
+        2726
+      ],
+      [
+        "best",
+        2509
+      ],
+      [
+        "subject",
+        2391
+      ],
+      [
+        "sumin",
+        2281
+      ],
+      [
+        "tomocube",
+        2202
+      ],
+      [
+        "imaging",
+        2100
+      ],
+      [
+        "regards",
+        2031
+      ],
+      [
+        "research",
+        1942
+      ],
+      [
+        "professional",
+        1882
+      ],
+      [
+        "ht",
+        1847
+      ],
+      [
+        "while",
+        1767
+      ],
+      [
+        "time",
+        1703
+      ],
+      [
+        "up",
+        1644
+      ]
+    ]
+  },
+  "opening_patterns": {
+    "common_first_words": [
+      [
+        "Best",
+        1951
+      ],
+      [
+        "Here’s",
+        1879
+      ],
+      [
+        "**Subject:**",
+        1724
+      ],
+      [
+        "Let",
+        1686
+      ],
+      [
+        "-",
+        1648
+      ],
+      [
+        "###",
+        1431
+      ],
+      [
+        "This",
+        1357
+      ],
+      [
+        "Thank",
+        1260
+      ],
+      [
+        "I",
+        1228
+      ],
+      [
+        "Please",
+        940
+      ],
+      [
+        "If",
+        742
+      ],
+      [
+        "Dear",
+        687
+      ],
+      [
+        "Here's",
+        678
+      ],
+      [
+        "Your",
+        602
+      ],
+      [
+        "The",
+        523
+      ]
+    ],
+    "common_first_phrases": [
+      [
+        "Best regards,",
+        1942
+      ],
+      [
+        "Here’s a",
+        1773
+      ],
+      [
+        "Let me",
+        1685
+      ],
+      [
+        "Let me know",
+        1675
+      ],
+      [
+        "Best regards, Sumin",
+        1350
+      ],
+      [
+        "Thank you",
+        1154
+      ],
+      [
+        "Thank you for",
+        1002
+      ],
+      [
+        "This version",
+        844
+      ],
+      [
+        "Here's a",
+        611
+      ],
+      [
+        "Here’s a refined",
+        605
+      ],
+      [
+        "Best regards, [Your",
+        382
+      ],
+      [
+        "If you",
+        380
+      ],
+      [
+        "Would you",
+        350
+      ],
+      [
+        "Here’s a polished",
+        339
+      ],
+      [
+        "I hope",
+        324
+      ]
+    ],
+    "greeting_patterns": {
+      "Hello": 20,
+      "Hi": 330,
+      "Dear": 720,
+      "Good morning/afternoon": 12,
+      "Thank you": 1402
+    },
+    "sample_openings": [
+      "Here’s how to download the **Notion app** on the device you’re using:",
+      "### 💻 Desktop (Windows & Mac)\nGo to the official Notion download page and choose the right version f",
+      "- **macOS:** download Universal, Apple Silicon, or Intel builds \n- **Windows:** download x64 or Arm/",
+      "Alternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
+      "### 📱 Mobile (iOS & Android)\n- **Android:** Open **Google Play Store** and search for *Notion* → ins",
+      "You can also visit Notion’s mobile download page on your phone and it will redirect you to the corre",
+      "### 🌐 Browser Option\nIf you don’t want to install anything, you can always use Notion in your browse",
+      "If you want **direct download links** for a specific platform (Windows installer, macOS, Android APK",
+      "Of course—please paste the email draft you’d like revised, and let me know if you have a preferred t",
+      "Here’s a revised version that tightens the language, improves flow, and keeps a professional but fri"
+    ]
+  },
+  "closing_patterns": {
+    "common_last_words": [
+      [
+        "Sumin",
+        1857
+      ],
+      [
+        "cite",
+        915
+      ],
+      [
+        "Name]",
+        618
+      ],
+      [
+        "tone:",
+        583
+      ],
+      [
+        "cite",
+        473
+      ],
+      [
+        "adjustments!",
+        427
+      ],
+      [
+        "flow:",
+        424
+      ],
+      [
+        "professionalism:",
+        337
+      ],
+      [
+        "tweaks!",
+        247
+      ],
+      [
+        "clarity:",
+        238
+      ],
+      [
+        "version:",
+        231
+      ],
+      [
+        "tone.",
+        230
+      ],
+      [
+        "regards,",
+        221
+      ],
+      [
+        "Name],",
+        211
+      ],
+      [
+        "email:",
+        198
+      ]
+    ],
+    "common_last_phrases": [
+      [
+        "regards, Sumin",
+        1334
+      ],
+      [
+        "Best regards, Sumin",
+        1308
+      ],
+      [
+        "[Your Name]",
+        614
+      ],
+      [
+        "regards, [Your Name]",
+        369
+      ],
+      [
+        "and flow:",
+        345
+      ],
+      [
+        "and professionalism:",
+        330
+      ],
+      [
+        "Thanks, Sumin",
+        316
+      ],
+      [
+        "further adjustments!",
+        312
+      ],
+      [
+        "clarity and professionalism:",
+        288
+      ],
+      [
+        "clarity and flow:",
+        253
+      ],
+      [
+        "and tone:",
+        247
+      ],
+      [
+        "Best regards,",
+        193
+      ],
+      [
+        "any further adjustments!",
+        190
+      ],
+      [
+        "[Recipient's Name],",
+        179
+      ],
+      [
+        "your message:",
+        177
+      ]
+    ],
+    "signoff_patterns": {
+      "Best regards": 1955,
+      "Best": 220,
+      "Thanks": 477,
+      "Thank you": 588,
+      "Sincerely": 11,
+      "말씀해 주세요": 1
+    },
+    "sample_closings": [
+      "Here’s how to download the **Notion app** on the device you’re using:",
+      "right version for your system: \n👉 **Official download page:** https://www.notion.com/desktop cite",
+      "lds \n- **Windows:** download x64 or Arm/Arm64 version \nFollow the installer steps after downloading.",
+      "Alternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
+      " \n- **iPhone/iPad:** Open **Apple App Store** and search for *Notion: Notes, Tasks, AI* → install.",
+      "lso visit Notion’s mobile download page on your phone and it will redirect you to the correct store.",
+      " anything, you can always use Notion in your browser by visiting: \n👉 https://www.notion.com/ cite",
+      "rm (Windows installer, macOS, Android APK, etc.), tell me which device you’re on and I’ll give them.",
+      "nd let me know if you have a preferred tone (e.g., more formal, more friendly, or strictly concise).",
+      "I’ve also clarified a few ambiguities while preserving your intent."
+    ]
+  },
+  "transition_analysis": {
+    "korean_by_category": {
+      "additive": 2,
+      "contrast": 1,
+      "causal": 2,
+      "sequential": 4,
+      "exemplifying": 4,
+      "concluding": 2
+    },
+    "english_by_category": {
+      "additive": 2051,
+      "contrast": 2408,
+      "causal": 1023,
+      "sequential": 1696,
+      "exemplifying": 1920,
+      "concluding": 203
+    },
+    "top_korean_transitions": [
+      [
+        "하지만",
+        8
+      ],
+      [
+        "다음으로",
+        3
+      ],
+      [
+        "특히",
+        3
+      ],
+      [
+        "정리하면",
+        2
+      ],
+      [
+        "또한",
+        1
+      ],
+      [
+        "그리고",
+        1
+      ],
+      [
+        "다만",
+        1
+      ],
+      [
+        "따라서",
+        1
+      ],
+      [
+        "때문에",
+        1
+      ],
+      [
+        "먼저",
+        1
+      ]
+    ],
+    "top_english_transitions": [
+      [
+        "but",
+        1428
+      ],
+      [
+        "also",
+        1398
+      ],
+      [
+        "so",
+        912
+      ],
+      [
+        "next",
+        910
+      ],
+      [
+        "including",
+        898
+      ],
+      [
+        "such as",
+        639
+      ],
+      [
+        "however",
+        531
+      ],
+      [
+        "yet",
+        438
+      ],
+      [
+        "first",
+        392
+      ],
+      [
+        "additionally",
+        345
+      ]
+    ]
+  },
+  "tone_analysis": {
+    "korean_formality": {
+      "formal_high": 140,
+      "formal_polite": 17,
+      "informal": 96
+    },
+    "english_formality": {
+      "formal": 5532,
+      "polite": 3122,
+      "casual": 832
+    },
+    "primary_korean_tone": "formal",
+    "primary_english_tone": "formal",
+    "emotional_indicators": {
+      "enthusiastic": 4185,
+      "cautious": 653,
+      "direct": 1249
+    }
+  },
+  "structural_patterns": {
+    "patterns": {
+      "uses_bullet_points": true,
+      "uses_numbering": true,
+      "uses_headers": true,
+      "uses_bold": true,
+      "uses_code_blocks": true,
+      "uses_tables": true
+    },
+    "counts": {
+      "bullet_count": 8962,
+      "number_count": 3454,
+      "header_count": 2220,
+      "question_count": 2549
+    }
+  },
+  "signature_phrases": {
+    "signature_bigrams": [
+      [
+        "me know",
+        3246
+      ],
+      [
+        "Here s",
+        3227
+      ],
+      [
+        "s a",
+        3199
+      ],
+      [
+        "if you",
+        3128
+      ],
+      [
+        "d like",
+        2817
+      ],
+      [
+        "know if",
+        2787
+      ],
+      [
+        "you d",
+        2607
+      ],
+      [
+        "Let me",
+        2570
+      ],
+      [
+        "of your",
+        2381
+      ],
+      [
+        "of the",
+        2307
+      ],
+      [
+        "version of",
+        2163
+      ],
+      [
+        "Best regards",
+        1956
+      ],
+      [
+        "in the",
+        1934
+      ],
+      [
+        "for the",
+        1628
+      ],
+      [
+        "clarity and",
+        1578
+      ]
+    ],
+    "signature_trigrams": [
+      [
+        "Here s a",
+        2953
+      ],
+      [
+        "me know if",
+        2725
+      ],
+      [
+        "Let me know",
+        2558
+      ],
+      [
+        "you d like",
+        2551
+      ],
+      [
+        "know if you",
+        2400
+      ],
+      [
+        "version of your",
+        2011
+      ],
+      [
+        "if you d",
+        1807
+      ],
+      [
+        "Best regards Sumin",
+        1423
+      ],
+      [
+        "d like to",
+        1205
+      ],
+      [
+        "of your email",
+        1151
+      ]
+    ]
+  },
+  "sample_sentences": [
+    "cite\n\nAlternatively, on **Windows 10/11** you can install Notion directly from the **Microsoft Store**.",
+    "In the meantime, you can view sample images using the link below: \n**[Download link: Motion PPT]** \nFeel free to share this with your colleagues.",
+    "- **Evolution:** From *IOBC* → *SIC* to formalize a tripartite collaboration (ITB–Evident–WPM).",
+    "We’re planning to launch promotional activities in China for our new product, **HT-X1 mini**, which we believe will appeal to a broader audience than our previous models.",
+    "Detailed technical specifications for each product, focusing on:\\n - Imaging resolution\\n - Throughput and acquisition speed\\n - Applications (e.g., research and clinical relevance)\\n3.",
+    "Best regards, \n[Your Name] \n\nLet me know if you'd like to adjust the tone (more formal or casual) or add any specific call to action.",
+    "### Next Steps Agreed Upon:\n\n- **Sumin Lee** committed to providing feedback or further information within **a few days to a week**, citing potential delays due to the busy travel schedule of her superior.",
+    "Applicants must be full-time faculty members in science and engineering fields at domestic universities or regular researchers at national or government-funded research institutes who meet one of the following criteria: \n\n- Obtained a doctoral degree within the past seven years.",
+    "Your experience and interest in growing the market as an applications/business developer sound like a great fit for our goals, so I’ll forward your details to the relevant team.",
+    "**Quality of Relationship Over Quantity**: Creators don’t need millions of fans like big stars.",
+    "Thanks, \nSumin\n\nThis version makes minor tweaks for flow and clarity while keeping the professional tone intact.",
+    "We are circulating an HT-X1 demo unit in Australia starting this March, and I hope we can discuss the possibility of you experiencing our HT-X1 system for your studies.",
+    "This graph provides a comparative view of cell growth dynamics across multiple wells, demonstrating variations in confluency progression.",
+    "I'm reaching out with a query regarding the polymer bottom thickness in our HT-Ready 96 well plate.",
+    "Here are some examples of group cheers, incorporating various methods to create an enthusiastic and unified atmosphere:\n\n1."
+  ]
+}
