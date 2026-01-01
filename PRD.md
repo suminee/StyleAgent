@@ -90,6 +90,25 @@ StyleProfile
 - 프로필 버전 관리
 - 프로필 병합/비교 기능
 
+#### 3.2.3 스타일 가이드 명명 규칙
+스타일 가이드 파일명은 다음 형식을 따른다:
+
+```
+Style_guide_{레이블}_{글의특성}_{언어}_{버전}.md
+```
+
+| 구성요소 | 설명 | 예시 |
+|---------|------|------|
+| 레이블 | 작성자/출처 식별자 | `Sumin`, `Bluehouse`, `Company` |
+| 글의특성 | 문서 유형 | `report`, `Email`, `proposal` |
+| 언어 | 작성 언어 | `Korean`, `English` |
+| 버전 | 버전 번호 | `rev0`, `rev1`, `v1.0` |
+
+**예시:**
+- `Style_guide_Sumin_report_Korean_rev0.md`
+- `Style_guide_Sumin_Email_English_rev0.md`
+- `Style_guide_Bluehouse_report_Korean.md`
+
 ### 3.3 글 생성 (Content Generation)
 
 #### 3.3.1 생성 모드
